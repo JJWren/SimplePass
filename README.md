@@ -12,4 +12,4 @@ Brave browser uses this type of system to authenticate devices being synced for 
 However, I would strongly recommend using a password manager like LastPass to manage your passwords!
 
 Example Run:
-![image](https://user-images.githubusercontent.com/43586816/172072401-50bbed80-835d-4d6c-9470-a7d5d3c97cb5.png)
+![image](https://user-images.githubusercontent.com/43586816/172072928-ab601197-e3f8-476d-b372-28451049b7fd.png)
